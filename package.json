@@ -1,0 +1,19 @@
+{
+  "name": "kicks-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "downshift": "5.0.5",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "regenerator-runtime": "0.13.5",
+    "swr": "0.2.0",
+    "tailwindcss": "1.2.0"
+  },
+  "license": "ISC"
+}
